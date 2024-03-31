@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> 
-<img alt="Top Langs" height="150px" src=https://github-readme-stats.vercel.app/api?username=jnpi-t6&layout=compact&show_icons=true" />
-<img alt="github stats" height="150px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jnpi-t6 />
+<img alt="Top Langs" height="200px" src=https://github-readme-stats.vercel.app/api?username=jnpi-t6&layout=compact&show_icons=true" />
+<img alt="github stats" height="200px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jnpi-t6 />
 </p>
 ### My Skills
 <img alt="my skills" src=https://skillicons.dev/icons?i=,html,css,js,nodejs,npm,react,nextjs,github,netlify,styledcomponents />
