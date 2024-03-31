@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnpi-t6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnpi-t6
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,nodejs,npm,react,nextjs,github,netlify,styledcomponents)](https://skillicons.dev)
