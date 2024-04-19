@@ -5,7 +5,7 @@
 <img alt="github stats" height="200px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jnpi-t6 />
 </p>
 ### My Skills
-<img  alt="my skills" src=https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,react,nextjs,github,netlify,styledcomponents,tailwind />
+<img  alt="my skills" src=https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,npm,github,netlify,styledcomponents,tailwind />
 <!--
 **jnpi-t6/jnpi-t6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
